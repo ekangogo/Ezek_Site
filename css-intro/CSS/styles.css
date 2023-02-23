@@ -1,0 +1,15 @@
+body{background-color: antiquewhite ;}
+        h1{color: red;font-size: 40px;}    
+        p{color: blue;}
+        p2{color: rgba(255, 0, 0, 1);}
+        p3{color:rgb(0, 255, 0)}
+
+.font-color-blue {color: red;}
+
+#welcome-heading {color: brown;}
+span{
+    color: darkred;
+}
+.unimportant {
+    border: solid, 3px, blue
+}
